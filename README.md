@@ -1,7 +1,7 @@
 # Console_Myway
 
 # 1. 시연영상주소
-https://youtu.be/ULNnWmCluDg
+https://youtu.be/GkUPA-E0Dyc
 
 # 2. 주제 : 서브웨이주문시스템
 
