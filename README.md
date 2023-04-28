@@ -20,6 +20,7 @@ https://youtu.be/GkUPA-E0Dyc
 DB와 JAVA의 연동과 EER을 보다 세세하게 이해할 수 있을 것 같아서 이 주제를 선정하게되었습니다
 
 # 4. 기간(22.02.24 ~ 22.03.08)
+![image](https://user-images.githubusercontent.com/121651318/235209081-0097b034-0f1f-4f1d-8a1e-c39f5cda6a71.png)
 
 # 5. 사용스킬 및 라이브러리
 ### JAVA, MYSQL
@@ -32,5 +33,8 @@ DB와 JAVA의 연동과 EER을 보다 세세하게 이해할 수 있을 것 같�
 
 # 8. 컨트롤 구조도
 ![컨트롤구조도](https://user-images.githubusercontent.com/121651511/221502650-c32a14f4-0c4a-4da4-b8c8-2b1890723c7c.png)
+
+# PPT
+[MyWay.pptx](https://github.com/Ga0Kwon/Console_Myway/files/11355762/MyWay.pptx)
 
 
