@@ -63,6 +63,6 @@ Model 및 Controller 개발
 # 7. 패키지[MVC]구조도
 ![패키지 MVC 구조도](https://user-images.githubusercontent.com/121651511/221502744-7945e9a5-985d-4557-aabd-f5ada6195dcc.png)
 
-# 8. 컨트롤 구조도
-![컨트롤구조도](https://user-images.githubusercontent.com/121651511/221502650-c32a14f4-0c4a-4da4-b8c8-2b1890723c7c.png)
+# 8. 컨트롤[MVC] 구조도
+![image](https://github.com/Ga0Kwon/Console_Myway/assets/121651318/e99a00ae-fb08-4e73-84cc-75f4486d6ddd)
 
