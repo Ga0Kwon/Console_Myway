@@ -54,7 +54,6 @@ Model 및 Controller 개발
 3/6(월)
 개발 부분 PPT 정리
 
-
 # 5. 사용스킬 및 라이브러리
 ### JAVA, MYSQL
 
@@ -66,8 +65,4 @@ Model 및 Controller 개발
 
 # 8. 컨트롤 구조도
 ![컨트롤구조도](https://user-images.githubusercontent.com/121651511/221502650-c32a14f4-0c4a-4da4-b8c8-2b1890723c7c.png)
-
-# 9. PPT
-[MyWay.pptx](https://github.com/Ga0Kwon/Console_Myway/files/11355762/MyWay.pptx)
-
 
